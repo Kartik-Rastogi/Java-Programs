@@ -1,0 +1,9 @@
+Line:- 'hello my name is kartik rastogi'
+Vowels: 10
+Consonants: 16
+Spaces: 5
+---------------------------------Line:- 'hello my name is kartik rastogi'
+Vowels: 10
+Consonants: 16
+Spaces: 5
+---------------------------------

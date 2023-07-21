@@ -1,0 +1,2 @@
+A text for demonstration Purpose(vowels - 11, consonents - 17, spaces- 4)
+Hello World (vowels - 3, consonents - 7, spaces- 1)
